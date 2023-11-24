@@ -320,11 +320,6 @@
         "id": 4,
         "username": "Akash",
         "password": "Akash"
-      },
-      {
-        "id": 5,
-        "username": "akash@infosys.com",
-        "password": "akash"
       }
     ],
     "agents": [

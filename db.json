@@ -303,23 +303,10 @@
     "loginData": [
       {
         "id": 1,
-        "username": "admin",
-        "password": "admin"
-      },
-      {
-        "id": 2,
+        "firstName": "Akash",
+        "lastName": "Patil",
         "username": "a",
         "password": "a"
-      },
-      {
-        "id": 3,
-        "username": "akash",
-        "password": "akash"
-      },
-      {
-        "id": 4,
-        "username": "Akash",
-        "password": "Akash"
       }
     ],
     "agents": [
